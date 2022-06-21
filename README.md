@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amarpreet Singh
 - 👀 I’m interested in Full Stack Development and also the Financial Markets
-- 🌱 I’m currently learning advanced nodejs
-- 💞️ I’m looking to collaborate on anything in the finance industry.
+- 💞️ I’m looking to collaborate on anything in the finance or crypto industry.
 - 📫 How to reach me ...
 Email: amarpreet.singh.ca@gmail.com
 
