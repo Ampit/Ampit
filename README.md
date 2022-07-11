@@ -11,7 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Amarpreet Singh](https://github-readme-stats.vercel.app/api?username=ampit&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampit&langs_count=8)
+![Amarpreet Singh](https://github-readme-stats.vercel.app/api?username=ampit&show_icons=true&theme=tokyonight)
